@@ -58,7 +58,7 @@ local function actionBars(layout)
 
     --Stance Bar, Pet Bar, and Possess Bar all stack when default above MainActionBar
     --PetActionBar
-    edit.SetOption(PetActionBar, 3, 4) --Icon size
+    edit.SetOption(PetActionBar, 3, 3) --Icon size
     --Position without Bar Art
     edit.SetPoint(PetActionBar, "BOTTOM", "MultiBarBottomLeft", "TOP", -1, 5)
     --Position with Bar Art
