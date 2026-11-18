@@ -3,7 +3,7 @@ package-as: JadeUI
 ignore:
     - README.md
     - Media/Base Documents
-    - Media/Screenshots
+    - .previews
     - WeakAura
 
 move-folders:
